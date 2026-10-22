@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img">
+  <title>Amigurumi de muestra</title>
+  <desc>Reemplaza este archivo por tu foto, o cambia heroImage en src/config/site.ts</desc>
+  <ellipse cx="400" cy="530" rx="290" ry="360" fill="#F7E4E1"/>
+  <ellipse cx="400" cy="560" rx="230" ry="300" fill="#FBF7F2"/>
+  <ellipse cx="400" cy="900" rx="150" ry="16" fill="#EAD9CE"/>
+  <circle cx="268" cy="300" r="62" fill="#F6E7DC" stroke="#E4D0C2" stroke-width="8"/>
+  <circle cx="532" cy="300" r="62" fill="#F6E7DC" stroke="#E4D0C2" stroke-width="8"/>
+  <circle cx="268" cy="300" r="32" fill="#F3D0D4"/>
+  <circle cx="532" cy="300" r="32" fill="#F3D0D4"/>
+  <ellipse cx="250" cy="690" rx="48" ry="78" fill="#F6E7DC" stroke="#E4D0C2" stroke-width="8" transform="rotate(-16 250 690)"/>
+  <ellipse cx="550" cy="690" rx="48" ry="78" fill="#F6E7DC" stroke="#E4D0C2" stroke-width="8" transform="rotate(16 550 690)"/>
+  <ellipse cx="400" cy="700" rx="158" ry="168" fill="#F8EDE4" stroke="#E4D0C2" stroke-width="8"/>
+  <ellipse cx="400" cy="725" rx="92" ry="104" fill="#FFFCF9"/>
+  <circle cx="400" cy="430" r="156" fill="#FBF4ED" stroke="#E4D0C2" stroke-width="8"/>
+  <ellipse cx="338" cy="860" rx="54" ry="32" fill="#F0E0D4" stroke="#E4D0C2" stroke-width="7"/>
+  <ellipse cx="468" cy="860" rx="54" ry="32" fill="#F0E0D4" stroke="#E4D0C2" stroke-width="7"/>
+  <ellipse cx="346" cy="448" rx="16" ry="10" fill="#F3C9CE"/>
+  <ellipse cx="454" cy="448" rx="16" ry="10" fill="#F3C9CE"/>
+  <circle cx="348" cy="418" r="8" fill="#5C4336"/>
+  <circle cx="452" cy="418" r="8" fill="#5C4336"/>
+  <ellipse cx="400" cy="452" rx="14" ry="10" fill="#C98990"/>
+  <path d="M368 478c10 16 54 16 64 0" fill="none" stroke="#8D6A56" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="362" cy="292" rx="28" ry="18" fill="#F0C4C9" transform="rotate(-28 362 292)"/>
+  <ellipse cx="438" cy="292" rx="28" ry="18" fill="#F0C4C9" transform="rotate(28 438 292)"/>
+  <circle cx="400" cy="304" r="12" fill="#E7A8B0"/>
+  <circle cx="612" cy="250" r="46" fill="#F0D2CC" stroke="#E3B7B4" stroke-width="6"/>
+  <path d="M580 250c18 10 28-8 46-2 16 6 22 16 40 4" fill="none" stroke="#C98990" stroke-width="4" stroke-linecap="round"/>
+  <path d="M586 272c16 6 24-8 40-2 14 5 20 12 34 2" fill="none" stroke="#8D6A56" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M168 210c18-28 8-52-16-62" fill="none" stroke="#C4A494" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 150c10 8 16 8 24 2" fill="none" stroke="#C4A494" stroke-width="6" stroke-linecap="round"/>
+</svg>
