@@ -90,9 +90,9 @@ El ícono de la pestaña está en `public/favicon.svg`.
 
 El proyecto está preparado para GitHub Pages con la versión de Vite instalada. La opción `base` sigue siendo la forma compatible de publicar bajo la ruta del repositorio.
 
-1. Crea un repositorio en GitHub y sube este proyecto en la raíz, donde está `package.json`. La rama de trabajo es `main`.
+1. Crea un repositorio en GitHub y sube este proyecto en la raíz, donde está `package.json`. La rama de trabajo es `master`.
 2. En el repositorio abre **Settings → Pages → Build and deployment** y elige **Source: GitHub Actions**.
-3. Cada push a `main` ejecuta `.github/workflows/deploy.yml`: instala, compila y publica `dist`.
+3. Cada push a `master` ejecuta `.github/workflows/deploy.yml`: instala, compila y publica `dist`.
 4. Durante ese build, Vite lee `GITHUB_REPOSITORY` y usa `base: /nombre-del-repo/`. El sitio queda en `https://USUARIO.github.io/NOMBRE-DEL-REPO/`.
 5. Si el repositorio se llama `usuario.github.io`, la base es `/` y el sitio se sirve en la raíz del dominio.
 6. Las rutas como `/producto/amigurumi-graduacion` funcionan al recargar porque el build copia `index.html` a `404.html`. GitHub Pages entrega esa página cuando no encuentra un archivo, y React Router resuelve la dirección.
